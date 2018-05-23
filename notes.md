@@ -1,0 +1,3 @@
+- The goal of this project is to create a CLI data gem that will provide:
+ - A list of homes available for rent/sale in a particular province.
+ - There will be a list of provinces for the user to choose from
