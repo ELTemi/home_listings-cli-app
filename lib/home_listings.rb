@@ -1,5 +1,2 @@
-require "home_listings/version"
-
-module HomeListings
-  # Your code goes here...
-end
+require_relative "./home_listings/version"
+require_relative "./home_listings/cli"
